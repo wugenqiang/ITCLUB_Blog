@@ -27,7 +27,7 @@ ul.infos p img { display: block; margin: auto }
 .paih { background: url(../images/ph.jpg) no-repeat left 8px; margin: 10px 0 }
 .paih li { line-height: 30px; height: 30px; overflow: hidden; padding-left: 24px; border-bottom: #CCC dotted 1px }
 .news h3, .visitors h3 { font-size: 14px; background: url(../images/r_title_bg.jpg) repeat-x center;margin: 10px 0; }
-.news h3 p, .visitors h3 p { background: #fff; width: 70px }
+.news h3 p, .visitors h3 p { background: #fff; width: 100px }
 .news h3 span { color: #65b020 }
 .news h3.ph span { color: #37ccca; }
 .news h3.links span { color: #F17B6B; }

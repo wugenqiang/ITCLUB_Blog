@@ -10,7 +10,7 @@ public class DB {
 	private Connection con;
 	private PreparedStatement pstm;
 	private String user="sa";
-	private String password="";
+	private String password="Wgq520lmf";
 	private String className="com.microsoft.sqlserver.jdbc.SQLServerDriver";
 	private String url="jdbc:sqlserver://localhost:1433;DatabaseName=db_mediaBlog";
 

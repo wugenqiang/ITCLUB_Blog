@@ -1,7 +1,7 @@
-﻿/* www.menucool.com/tooltip/javascript-tooltip */
+/* www.menucool.com/tooltip/javascript-tooltip */
 
 /*For tooltip target element that has set class="tooltip" */
-.tooltip {text-decoration: none; border-bottom:1px dotted #36c;color: #36c; outline: none; }
+.tooltip {text-decoration: none; color: #36c; outline: none; }
 
 /*For tooltip box*/
 #mcTooltip 
